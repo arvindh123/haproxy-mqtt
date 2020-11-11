@@ -5,6 +5,7 @@ Fast and reliable solution (based on HAProxy) offering high availability, load b
 ## Installation
 
 * [How to Build an High Availability MQTT Cluster for the Internet of Things](https://medium.com/@lelylan/how-to-build-an-high-availability-mqtt-cluster-for-the-internet-of-things-8011a06bd000#.vc1pdedpm)
+ 
 In SE Linux Add the following thing to work properly 
 sudo setsebool -P haproxy_connect_any=1
 ## Resources
